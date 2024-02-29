@@ -1,0 +1,18 @@
+Added Component: Designator=J?(SAMTEC_HTSW-106-07-L-D-LL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HTSW-106-07-L-D-LL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J?-COL1
+Add Pin To Net: Unknown Pin: Pin J?-COL2
+Add Pin To Net: Unknown Pin: Pin J?-COL3
+Add Pin To Net: Unknown Pin: Pin J?-COL4
+Add Pin To Net: Unknown Pin: Pin J?-GND
+Add Pin To Net: Unknown Pin: Pin J?-ROW1
+Add Pin To Net: Unknown Pin: Pin J?-ROW2
+Add Pin To Net: Unknown Pin: Pin J?-ROW3
+Add Pin To Net: Unknown Pin: Pin J?-ROW4
+Add Pin To Net: Unknown Pin: Pin J?-VCC
+Added Member To Class: ClassName=PMOD_KYPD Member=Component J? HTSW-106-07-L-D-LL

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=R1 Pin=R2-1
+Removed Pin From Net: NetName=R1 Pin=S5-2
+Removed Pin From Net: NetName=R1 Pin=S6-2
+Removed Pin From Net: NetName=R1 Pin=S7-2
+Removed Pin From Net: NetName=R1 Pin=S8-2
+Added Component: Designator=J?(SAMTEC_HTSW-106-07-L-D-LL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HTSW-106-07-L-D-LL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R4 Pin=J?-01
+Added Pin To Net: NetName=R3 Pin=J?-03
+Added Pin To Net: NetName=R1 Pin=J?-07
+Added Pin To Net: NetName=R2 Pin=J?-05
+Added Pin To Net: NetName=R2 Pin=R2-1
+Added Pin To Net: NetName=R2 Pin=S5-2
+Added Pin To Net: NetName=R2 Pin=S6-2
+Added Pin To Net: NetName=R2 Pin=S7-2
+Added Pin To Net: NetName=R2 Pin=S8-2
+Added Net: Name=R2
+Added Member To Class: ClassName=PMOD_KYPD Member=Component J? HTSW-106-07-L-D-LL

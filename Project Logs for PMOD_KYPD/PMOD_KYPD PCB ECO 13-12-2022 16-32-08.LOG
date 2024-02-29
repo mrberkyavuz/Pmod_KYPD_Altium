@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Net14_1 Pin=14-1
+Removed Pin From Net: NetName=ROW4 Pin=14-2
+Removed Member From Class: ClassName=PMOD_KYPD Member=14
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=CRGCQ2512J10K
+Added Component: Designator=S14(SW_BUTT-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Gravitech'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-COL1
+Add Pin To Net: Unknown Pin: Pin J1-COL2
+Add Pin To Net: Unknown Pin: Pin J1-COL3
+Add Pin To Net: Unknown Pin: Pin J1-COL4
+Add Pin To Net: Unknown Pin: Pin J1-GND
+Add Pin To Net: Unknown Pin: Pin J1-ROW1
+Add Pin To Net: Unknown Pin: Pin J1-ROW2
+Add Pin To Net: Unknown Pin: Pin J1-ROW3
+Add Pin To Net: Unknown Pin: Pin J1-ROW4
+Add Pin To Net: Unknown Pin: Pin J1-VCC
+Added Pin To Net: NetName=Net14_1 Pin=S14-1
+Added Pin To Net: NetName=ROW4 Pin=S14-2
+Change Net Name : Old Net Name=Net14_1 New Net Name=NetR6_1
+Added Member To Class: ClassName=PMOD_KYPD Member=Component S14 0

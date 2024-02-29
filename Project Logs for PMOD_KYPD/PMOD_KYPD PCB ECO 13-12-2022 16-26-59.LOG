@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=Net14_1 Pin=14-1
+Removed Pin From Net: NetName=ROW4 Pin=14-2
+Change Component DesignItemId : Designator=14 Old DesignItemId=BUTT-2 New DesignItemId=HTSW-106-07-L-D-LL
+Change Component Footprint: Designator=14 Old Footprint=SW_BUTT-2 New Footprint=SAMTEC_HTSW-106-07-L-D-LL
+Change Component Comment : Designator=S13 Old Comment=* New Comment=BUTT-2
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=CRGCQ2512J10K
+Change Component Description : Designator=R1 Old Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V CRGCQ2512J10K New Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V
+Change Component Description : Designator=R2 Old Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V CRGCQ2512J10K New Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V
+Change Component Description : Designator=R3 Old Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V CRGCQ2512J10K New Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V
+Change Component Description : Designator=R4 Old Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V CRGCQ2512J10K New Description=CRGCQ2512 10KΩ 1W ±100ppm/°C 5%200V
+Change Component Description : Designator=R5 Old Description=RMCF2512FT470R New Description=
+Change Component Description : Designator=R6 Old Description=RMCF2512FT470R New Description=
+Change Component Description : Designator=R7 Old Description=RMCF2512FT470R New Description=
+Change Component Description : Designator=R8 Old Description=RMCF2512FT470R New Description=
+Change Component Description : Designator=14 Old Description=Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4 New Description=
+Change component parameters: Designator = "14" ("14"); Footprint = "SW_BUTT-2"; UniqueID = "\UBOUZNCE" ("\UBOUZNCE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "HTSW-106-07-L-D-LL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ROW3 Pin=14-03
+Added Pin To Net: NetName=ROW3 Pin=14-04
+Add Pin To Net: Unknown Pin: Pin J1-COL1
+Add Pin To Net: Unknown Pin: Pin J1-COL2
+Add Pin To Net: Unknown Pin: Pin J1-COL3
+Add Pin To Net: Unknown Pin: Pin J1-COL4
+Add Pin To Net: Unknown Pin: Pin J1-GND
+Add Pin To Net: Unknown Pin: Pin J1-ROW1
+Add Pin To Net: Unknown Pin: Pin J1-ROW2
+Add Pin To Net: Unknown Pin: Pin J1-ROW3
+Add Pin To Net: Unknown Pin: Pin J1-ROW4
+Add Pin To Net: Unknown Pin: Pin J1-VCC
+Change Net Name : Old Net Name=Net14_1 New Net Name=NetR6_1
+Added Room: Name=PMOD_KYPD

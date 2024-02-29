@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=COL4 Pin=J?-02
+Added Pin To Net: NetName=COL3 Pin=J?-04
+Added Pin To Net: NetName=COL2 Pin=J?-06
+Added Pin To Net: NetName=COL1 Pin=J?-08
+Added Pin To Net: NetName=VCC Pin=J?-11
+Added Pin To Net: NetName=VCC Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-09
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Net: Name=GND
+Added Member To Class: ClassName=PMOD_KYPD Member=Component J? HTSW-106-07-L-D-LL

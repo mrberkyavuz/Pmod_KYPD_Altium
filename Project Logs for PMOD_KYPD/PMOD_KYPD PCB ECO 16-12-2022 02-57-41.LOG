@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=R4 Pin=J?-01
+Removed Pin From Net: NetName=COL4 Pin=J?-02
+Removed Pin From Net: NetName=R3 Pin=J?-03
+Removed Pin From Net: NetName=COL3 Pin=J?-04
+Removed Pin From Net: NetName=R1 Pin=J?-05
+Removed Pin From Net: NetName=COL2 Pin=J?-06
+Removed Pin From Net: NetName=R1 Pin=J?-07
+Removed Pin From Net: NetName=COL1 Pin=J?-08
+Removed Pin From Net: NetName=VCC Pin=J?-11
+Removed Pin From Net: NetName=VCC Pin=J?-12
+Removed Member From Class: ClassName=PMOD_KYPD Member=J?
